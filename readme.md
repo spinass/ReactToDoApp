@@ -1,1 +1,1 @@
-Bandome sukurti chronometra
+Bandome sukurti uzrasine

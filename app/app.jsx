@@ -10,6 +10,6 @@ $(document).foundation();
 require('style!css!sass!applicationStyles')
 
 ReactDOM.render(
-  <p>Boilerplate 3 projektas</p>,
+  <p>Bus ToDo app</p>,
   document.getElementById('app')
 );
