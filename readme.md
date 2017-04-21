@@ -1,0 +1,1 @@
+Bandome sukurti chronometra
